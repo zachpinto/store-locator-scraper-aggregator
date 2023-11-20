@@ -27,10 +27,10 @@ def get_morel_data(latitude, longitude):
 
 def main():
     # Define the path for the output CSV file
-    output_file = '../../data/morel/morel_store_locations.csv'
+    output_file = '../data/morel_store_locations.csv'
 
     # Read coordinates from file
-    with open("../../utils/coordinates.txt", "r") as file:
+    with open("../utils/coordinates.txt", "r") as file:
         coordinates = file.readlines()
 
     # Iterate over each pair of coordinates

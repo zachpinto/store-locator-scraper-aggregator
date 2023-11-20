@@ -59,6 +59,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/data/morel_store_locations.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
