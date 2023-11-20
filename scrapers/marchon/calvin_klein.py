@@ -74,7 +74,7 @@ def get_ck_data(latitude, longitude):
 # Main function to iterate over coordinates
 def main():
     # Define the path for the output CSV file
-    output_file = '../../data/marchon/calvin_klein_store_locations1.csv'
+    output_file = '../../data/marchon/calvin_klein_store_locations.csv'
 
     # Read coordinates from file
     with open("../../utils/coordinates.txt", "r") as file:
