@@ -24,7 +24,7 @@ def get_kl_data(latitude, longitude):
         <searchradius>50</searchradius>
         <limit>40</limit>
         <where>
-          <kl><eq>1</eq></kl> <!-- Karl Lagerfeld selected -->
+          <lf><eq>1</eq></lf> <!-- Karl Lagerfeld selected -->
         </where>
       </formdata>
     </request>
