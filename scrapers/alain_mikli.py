@@ -48,7 +48,7 @@ def scrape_alainmikli_stores(location):
 def main():
     output_file = '../data/alainmikli_store_locations.csv'
 
-    with open("../utils/coordinates_tempt.txt", "r") as file:
+    with open("../utils/coordinates.txt", "r") as file:
         locations = file.readlines()
 
     for location in locations:
