@@ -3,7 +3,7 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="/data/barton_perreira_store_locations.csv">
+        <entry key="/data/alainmikli_store_locations.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -17,13 +17,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/data/lindberg_store_locations_merged.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/data/lunor_store_locations.csv">
           <value>
             <Attribute>
@@ -31,7 +24,21 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/data/marchon/calvin_klein_store_locations1.csv">
+        <entry key="/data/marchon/calvin_klein_store_locations.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/marchon/dkny_store_locations.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/marchon/flexon_store_locations.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
