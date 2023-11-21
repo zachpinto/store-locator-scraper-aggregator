@@ -51,7 +51,7 @@ def main():
     output_file = '/Users/pintoza/Desktop/dev/python-development/python_store_locator_web_scraper/data/costa_store_locations.csv'
 
     # Read coordinates from file
-    with open("/Users/pintoza/Desktop/dev/python-development/python_store_locator_web_scraper/utils/coordinates1.txt", "r") as file:
+    with open("/Users/pintoza/Desktop/dev/python-development/python_store_locator_web_scraper/utils/coordinates.txt", "r") as file:
         coordinates = [line.strip().split(",") for line in file if line.strip()]
 
     for latitude, longitude in coordinates:
