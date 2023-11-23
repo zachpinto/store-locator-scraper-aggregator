@@ -94,6 +94,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/scrapers/ic_berlin_store_locations.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
