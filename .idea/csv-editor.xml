@@ -143,7 +143,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/data/tom_ford_store_locations_.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/data/zeiss_store_locations_.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/final/Tom Ford.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
