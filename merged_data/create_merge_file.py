@@ -37,7 +37,7 @@ def create_final_dataframe(unique_addresses, brands):
 
 def main():
     folder_path = '/Users/pintoza/Desktop/dev/python-development/python_store_locator_web_scraper/final_data'
-    output_file = '/final_data/00_merged_data.csv'
+    output_file = '/merged_data.csv'
 
     brands = os.listdir(folder_path)
     dataframes = {brand.split('.')[0]: read_and_preprocess_csv(os.path.join(folder_path, brand)) for brand in brands}
