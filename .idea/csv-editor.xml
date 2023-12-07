@@ -136,13 +136,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/data/tom_ford_store_locations.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/data/tom_ford_store_locations_.csv">
           <value>
             <Attribute>
@@ -151,13 +144,6 @@
           </value>
         </entry>
         <entry key="/data/zeiss_store_locations_.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/final/Tom Ford.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -311,7 +297,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/final_data/merged_data.csv">
+        <entry key="/merged_data/merged_data.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
