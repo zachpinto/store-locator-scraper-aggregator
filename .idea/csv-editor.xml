@@ -31,13 +31,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/data/costa_store_locations.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/data/ic_berlin_store_locations.csv">
           <value>
             <Attribute>
@@ -67,6 +60,13 @@
           </value>
         </entry>
         <entry key="/data/marchon/calvin_klein_store_locations.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/marchon/cutler_and_gross.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -129,6 +129,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/data/mykita_store_locations.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/data/tom_ford_store_locations.csv">
           <value>
             <Attribute>
@@ -137,13 +144,6 @@
           </value>
         </entry>
         <entry key="/data/zeiss_store_locations.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/scrapers/mykita_store_locations.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
