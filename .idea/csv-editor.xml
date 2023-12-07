@@ -108,14 +108,14 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/data/rayban_store_locations.csv">
+        <entry key="/data/tom_ford_store_locations.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/data/tom_ford_store_locations.csv">
+        <entry key="/data/zeiss_store_locations.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
