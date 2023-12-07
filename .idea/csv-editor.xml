@@ -3,13 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="/data/ahlem_store_locations.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/data/ahlem_store_locations_.csv">
           <value>
             <Attribute>
@@ -24,21 +17,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/data/andy_wolf_store_locations.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/data/andy_wolf_store_locations_.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/data/anna_karin_karlsson_store_locations.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -150,13 +129,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/data/mykita_store_locations.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/data/mykita_store_locations_.csv">
           <value>
             <Attribute>
@@ -165,13 +137,6 @@
           </value>
         </entry>
         <entry key="/data/tom_ford_store_locations.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/data/zeiss_store_locations.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

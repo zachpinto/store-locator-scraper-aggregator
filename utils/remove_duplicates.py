@@ -11,6 +11,6 @@ def remove_duplicates_from_csv(file_path, output_path):
     unique_df.to_csv(output_path, index=False)
 
 # Example usage
-input_csv = '/Users/pintoza/Desktop/dev/python-development/python_store_locator_web_scraper/data/ahlem_store_locations.csv'  # Replace with your input CSV file path
-output_csv = '/Users/pintoza/Desktop/dev/python-development/python_store_locator_web_scraper/data/ahlem_store_locations_.csv'  # Replace with your desired output CSV file path
+input_csv = '/Users/pintoza/Desktop/dev/python-development/python_store_locator_web_scraper/data/tom_ford_store_locations.csv'  # Replace with your input CSV file path
+output_csv = '/Users/pintoza/Desktop/dev/python-development/python_store_locator_web_scraper/data/tom_ford_store_locations_.csv'  # Replace with your desired output CSV file path
 remove_duplicates_from_csv(input_csv, output_csv)
