@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/data/lafont_store_locations.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/data/lindberg_store_locations.csv">
           <value>
             <Attribute>
@@ -80,6 +87,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/data/matsuda_store_locations.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/maybach_store_locations.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/data/morel_store_locations.csv">
           <value>
             <Attribute>
@@ -87,14 +108,14 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/scrapers/costadelmar_store_locations.csv">
+        <entry key="/data/rayban_store_locations.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/scrapers/ic_berlin_store_locations.csv">
+        <entry key="/data/tom_ford_store_locations.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
