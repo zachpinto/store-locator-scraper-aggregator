@@ -1,4 +1,4 @@
-# Eyewear Retailers Store Locator Data Aggregation
+# Eyewear Retailer Store Locator Webscraper and Aggregator
 
 ## Project Overview
 This project involves scraping eyewear retailers' store locator data, primarily using APIs, with occasional use of BeautifulSoup for web scraping. The primary goal is to extract `name` and `address` pairs from various eyewear retailers and merge them into a consolidated dataset, ensuring accuracy and consistency in address formatting.
@@ -28,7 +28,7 @@ git clone https://github.com/yourusername/your-repository-name.git
 
 2. Navigate to the project:
 ```
-cd python_store_locator_web_scraper
+cd eyewear-retailer-scraper-aggregator
 ```
 
 3. Install requirements:
