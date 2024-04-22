@@ -1,7 +1,13 @@
 # Eyewear Retailer Store Locator Webscraper and Aggregator
 
 ## Project Overview
-This project involves scraping eyewear retailers' store locator data, primarily using APIs, with occasional use of BeautifulSoup for web scraping. The primary goal is to extract `name` and `address` pairs from various eyewear retailers and merge them into a consolidated dataset, ensuring accuracy and consistency in address formatting.
+This project involves scraping retailer store locator data using REST APIs and BeautifulSoup. 
+
+In this case, the primary goal was to extract `name` and `address` pairs from various eyewear retailers and merge them into a consolidated dataset, ensuring accuracy and consistency in address formatting.
+
+Since names and addresses can be entered into system databases with slightly differing formats from firm to firm (ie. "DR SMITH, 1001 Parkway East, Binghamton, NY 13905" versus "Dr. Smith, 1001 Pkwy E., Binghamton, NY 13905") this introduces a high likelihood of multi-counting any given true name, address pair. To mitigate this issue, I use Fuzzy string-matching techniques to account for subtle differences in names and addresses and aggregate pairs using a moderate assumption of these differences across firm entries. 
+
+
 
 ## Directory Structure
     .
